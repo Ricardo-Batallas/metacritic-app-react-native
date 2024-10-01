@@ -1,0 +1,2 @@
+# metacritic-app-react-native
+TAREA EXAMEN COMPLEXIVO - APLICACIONES MOVILES
